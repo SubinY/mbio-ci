@@ -14,7 +14,7 @@ cd ./dist
 
 git init
 git add -A
-git commit -m 'deploy1'
+git commit -m 'deploy2'
 git config --local user.name "subin_hu"
 git config --local user.email "490101299@qq.com"
 
