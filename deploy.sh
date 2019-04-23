@@ -25,8 +25,8 @@ git config --local user.email "490101299@qq.com"
 # git push -f git@github.com:SubinY/mbio.git master:gh-pages
 
 # 如果使用 travis 持续集成
-# git push -f https://${access_token}@github.com:SubinY/mbio.git master:gh-pages
+git push -f https://${access_token}@github.com:SubinY/mbio.git master:gh-pages
 
-git push -f https://${access_token}@github.com/SubinY/mbio.github.io.git master:gh-pages
+# git push -f https://${access_token}@github.com/SubinY/mbio.github.io.git master:gh-pages
 
 cd -
